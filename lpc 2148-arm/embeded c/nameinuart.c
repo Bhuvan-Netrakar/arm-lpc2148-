@@ -5,7 +5,7 @@ unsigned char mg;
 int main()
 {
 	unsigned int i;
-	unsigned char msg[]=("MANOJ");
+	unsigned char msg[]=("Bhuvan");
 	serial();
 	while(1)
 	{
